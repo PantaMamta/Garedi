@@ -218,10 +218,7 @@ MERN Stack Developer
 Far Western University, Nepal 🇳🇵
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+.
 
 ---
 
